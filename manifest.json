@@ -1,0 +1,21 @@
+{
+  "name": "Igreja Adventista do Sétimo Dia Portuguesa de Everett",
+  "short_name": "Igreja Everett",
+  "description": "Site oficial da Igreja Adventista do Sétimo Dia Portuguesa de Everett, MA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#054c78",
+  "icons": [
+    {
+      "src": "img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
