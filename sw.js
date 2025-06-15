@@ -5,7 +5,7 @@ const urlsToCache = [
   '/css/styles.css',
   '/js/main.js',
   '/img/logo.svg',
-  '/img/church-interior.jpg',
+  '/img/igreja.webp',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css',
   'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap'
 ];

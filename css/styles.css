@@ -217,7 +217,7 @@ p {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: url('../img/interior.jpg');
+    background-image: url('../img/igreja.webp');
     background-size: cover;
     background-position: center;
     color: var(--light-color);

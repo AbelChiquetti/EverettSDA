@@ -1,5 +1,5 @@
 /**
- * JavaScript principal para o site da Igreja Adventista do Sétimo Dia Portuguesa de Everett
+ * JavaScript principal para o site da Everett Portuguese SDA Church
  */
 
 document.addEventListener('DOMContentLoaded', function() {
